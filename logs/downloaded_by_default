@@ -1,0 +1,19 @@
+Compiling p0 into /home/ch1c0t/sources/java/with_buildr/p0/target/classes
+Downloading org.apache.ant:ant:jar:1.8.3
+Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.3/ant-1.8.3.jar
+ant-1.8.3.jar: 100% |.........................................................................................................................|    1.8MB/1.8MB Time: 00:00:01
+Downloading org.apache.ant:ant:pom:1.8.3
+Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.8.3/ant-1.8.3.pom
+ant-1.8.3.pom: 100% |.........................................................................................................................|    9.4KB/9.4KB Time: 00:00:00
+Downloading org.apache.ant:ant-launcher:jar:1.8.3
+Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.3/ant-launcher-1.8.3.jar
+ant-launcher-1.8.3.jar: 100% |...............................................................................................................|   18.0KB/18.0KB Time: 00:00:00
+Downloading org.apache.ant:ant-launcher:pom:1.8.3
+Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.8.3/ant-launcher-1.8.3.pom
+ant-launcher-1.8.3.pom: 100% |................................................................................................................|    2.3KB/2.3KB Time: 00:00:00
+Downloading org.eclipse.jdt.core.compiler:ecj:jar:4.5.1
+Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar
+ecj-4.5.1.jar: 100% |.........................................................................................................................|    2.3MB/2.3MB Time: 00:00:02
+Downloading org.eclipse.jdt.core.compiler:ecj:pom:4.5.1
+Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.pom
+ecj-4.5.1.pom: 100% |.........................................................................................................................|    2.1KB/2.1KB Time: 00:00:00
